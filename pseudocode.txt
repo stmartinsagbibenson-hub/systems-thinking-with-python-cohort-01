@@ -1,0 +1,104 @@
+FEEDING A HUNGRY DOG 
+
+START STATE= FEEDING THE DOG 
+
+knowing the exact food to give the dog which is rice 
+
+get the pot to cook the food 
+
+put water in the pot and put the pot on fire
+
+add the ingredients to the water 
+
+wash the rice in a bowl
+
+let the water in the pot boil for x minutes 
+
+then add the washed rice to the boiling water 
+
+then let the rice cook for x minutes till it is soft and done 
+
+then turn off the gas 
+
+portion the food for more surface area 
+
+then get the dog's plate 
+
+wash the dog's plate 
+
+serve the food in the plate 
+
+then give the dog the food 
+
+and give the dog water 
+
+END STATE= WELL FED DOG 
+
+
+
+
+
+
+
+
+CLEANING A DIRTY CAR 
+
+
+
+STATE= DIRTY CAR 
+
+
+waking up in the morning to clean the car 
+
+first check if there is water in the house 
+
+get soap to wash the car
+
+then get bucket to fetch water 
+
+get a towel to dry and wash the car 
+
+add soap to the bucket of water 
+
+mix the soap water well
+
+then start using the towel to wash the car 
+
+after washing with the soap water 
+
+use a clean water to rinse the car 
+
+then use a towel to clean the interior of the car 
+
+then use that same towel to clean the body of the car u washed earlier 
+
+after drying the car properly 
+
+rinse the towel and bucket properly 
+
+then dry the towel and keep the bucket 
+
+and you are done 
+
+END STATE= clean car
+
+
+HOW I HAVE MY BATHE IN THE MORNING 
+
+waking up in the morning 
+
+fetch water in the bathroom 
+
+get my towel ready 
+
+get my toothe paste and brush before bathing 
+
+get my bathing soap and my sponge 
+
+use the  soap and sponge to scrub my body 
+
+then use the water to wash my body after scrubing 
+
+then use my towel to dry my body 
+
+exit the bathroom to dress up 
