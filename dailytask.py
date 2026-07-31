@@ -17,6 +17,7 @@ print("get a towel to dry and wash the car")
 print("add soap to the bucket of water")
 print("mix the soap well")
 print("then start using the towel to wash the car")
+
 print("after washing with soap water")
 print("use a clean water to rinse the car")
 print("use a towel to clean the interior of the car")
@@ -27,4 +28,3 @@ print("then store the bucket and towel in a safe place")
 print("then you are done")
 
 print("END STATE= CLEAN CAR")
-
