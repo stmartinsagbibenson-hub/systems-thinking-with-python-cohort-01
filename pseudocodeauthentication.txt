@@ -1,0 +1,24 @@
+
+            🔐 Cybersecurity Track —
+
+
+ Login Security Flow Design a login process, authentication checks,
+and failed-attempt handling. Ask: where can attackers exploit 
+weaknesses? What checks should happen first?
+
+
+
+=====PSEUDOCODE=====
+
+for a login operaion 
+  get the users email and password 
+   "check if the email exists in your database"
+   if the email does exist then check the password if it is correct then grant access 
+if the password does not match then denny access into the website
+
+if the email does not exist in the database 
+  then ask the user to signup 
+
+
+  
+    
